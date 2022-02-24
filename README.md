@@ -1,1 +1,6 @@
 # Automatic-solar-water-sprinkler
+
+
+Irrigation has played a vital role from centuries of human civilization, and it has come a long way from hand-dug canals to current-day piping networks that span across the country. Today’s conventional irrigation systems are comprised of large piping setups along with many sprinklers to achieve proper supply of water to the land under irrigation. This plant irrigation system has many problems associated with it. Our proposed system uses a vehicle with an automatic sprinkler using an ESP controller, that moves through the field with a miniature water tank that sprays water all over the field. This vehicle is battery-powered and has a solar panel inbuilt to help with recharging. It consists of chassis, wheels, pipes, sprinkler, Electronic Circuit with sensors and a pump. The vehicle will move based on input commands from a mobile device considering the inputs from the soil moisture sensor.
+ 
+In addition to achieving necessary irrigation, monitoring features like temperature, humidity and live streaming from the vehicle are also provided as add-ons to the user. The vehicle will be moving within the field, and we can monitor the condition of crops in our mobile from anywhere.
